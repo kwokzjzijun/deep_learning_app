@@ -1,0 +1,764 @@
+{
+  "dataset": "Clinical2026_0424",
+  "source_root": "/Users/gzj/Desktop/Clinical_test_0417/Clinical2026_0424",
+  "pc_roi_root": "/Users/gzj/Desktop/Clinical_test_0417/Clinical2026_0424_step2_circle",
+  "match": "display_name/stem",
+  "image_count": 26,
+  "roi_count": 65,
+  "images": [
+    {
+      "stem": "20260423_120747",
+      "display_name": "20260423_120747.jpg",
+      "source_rel": "36_360/20260423_120747.jpg",
+      "source_folder": "36_360",
+      "roi_count": 3,
+      "rois": [
+        {
+          "roi_index": 1,
+          "asset": "pc_rois/clinical2026_0424/36_360/20260423_120747_roi_001_circle.png",
+          "filename": "20260423_120747_roi_001_circle.png",
+          "width": 315,
+          "height": 315,
+          "sha256": "2e2c32efac8a27a24bbb0d0cca64fdd8f5a6bd31bbcf83978c30a72c7de209c6"
+        },
+        {
+          "roi_index": 2,
+          "asset": "pc_rois/clinical2026_0424/36_360/20260423_120747_roi_002_circle.png",
+          "filename": "20260423_120747_roi_002_circle.png",
+          "width": 297,
+          "height": 297,
+          "sha256": "4b3dd5ec223cb6ab491d688e44fe04654f053a12f5c8fe443f39604b99c2ea83"
+        },
+        {
+          "roi_index": 3,
+          "asset": "pc_rois/clinical2026_0424/36_360/20260423_120747_roi_003_circle.png",
+          "filename": "20260423_120747_roi_003_circle.png",
+          "width": 293,
+          "height": 293,
+          "sha256": "e57dff7321c397d7aacb87de1daa6ca026b74a2ef53738c1dae5ecdd9df42fff"
+        }
+      ]
+    },
+    {
+      "stem": "20260423_121049",
+      "display_name": "20260423_121049.jpg",
+      "source_rel": "25_377/20260423_121049.jpg",
+      "source_folder": "25_377",
+      "roi_count": 2,
+      "rois": [
+        {
+          "roi_index": 1,
+          "asset": "pc_rois/clinical2026_0424/25_377/20260423_121049_roi_001_circle.png",
+          "filename": "20260423_121049_roi_001_circle.png",
+          "width": 321,
+          "height": 321,
+          "sha256": "5b5eb45b0a2d38af0473c01b1cec1908c74d4f3a9b507ecd0c4531aca4635032"
+        },
+        {
+          "roi_index": 2,
+          "asset": "pc_rois/clinical2026_0424/25_377/20260423_121049_roi_002_circle.png",
+          "filename": "20260423_121049_roi_002_circle.png",
+          "width": 295,
+          "height": 295,
+          "sha256": "458b4ccbcec1f286eeea035188a461b2958fc25a784f2f62cf91c65e6aa8cda0"
+        }
+      ]
+    },
+    {
+      "stem": "20260423_121349",
+      "display_name": "20260423_121349.jpg",
+      "source_rel": "38_537/20260423_121349.jpg",
+      "source_folder": "38_537",
+      "roi_count": 3,
+      "rois": [
+        {
+          "roi_index": 1,
+          "asset": "pc_rois/clinical2026_0424/38_537/20260423_121349_roi_001_circle.png",
+          "filename": "20260423_121349_roi_001_circle.png",
+          "width": 321,
+          "height": 321,
+          "sha256": "3301bea09b6d995c5e7cc1d7120a1f5208ed398f6f9d4f298a4a3ec9d625a044"
+        },
+        {
+          "roi_index": 2,
+          "asset": "pc_rois/clinical2026_0424/38_537/20260423_121349_roi_002_circle.png",
+          "filename": "20260423_121349_roi_002_circle.png",
+          "width": 331,
+          "height": 331,
+          "sha256": "2f17f32d1912eb36b44d3c31a7346559cc71577669ae096719d7f085d51566f5"
+        },
+        {
+          "roi_index": 3,
+          "asset": "pc_rois/clinical2026_0424/38_537/20260423_121349_roi_003_circle.png",
+          "filename": "20260423_121349_roi_003_circle.png",
+          "width": 345,
+          "height": 345,
+          "sha256": "c24472c7d3accd720828e14d41695731c0a6a1b6065a806199140b116c5e5481"
+        }
+      ]
+    },
+    {
+      "stem": "20260423_121635",
+      "display_name": "20260423_121635.jpg",
+      "source_rel": "33_299/20260423_121635.jpg",
+      "source_folder": "33_299",
+      "roi_count": 3,
+      "rois": [
+        {
+          "roi_index": 1,
+          "asset": "pc_rois/clinical2026_0424/33_299/20260423_121635_roi_001_circle.png",
+          "filename": "20260423_121635_roi_001_circle.png",
+          "width": 275,
+          "height": 275,
+          "sha256": "1e9adf95316212fb0e83795a687ca39d2030299f124d813fb7871094781c1391"
+        },
+        {
+          "roi_index": 2,
+          "asset": "pc_rois/clinical2026_0424/33_299/20260423_121635_roi_002_circle.png",
+          "filename": "20260423_121635_roi_002_circle.png",
+          "width": 319,
+          "height": 319,
+          "sha256": "ecb9468800e19ee00b7cc0a1eb1bad1d3f34507cd7784d82c7234813365b02fe"
+        },
+        {
+          "roi_index": 3,
+          "asset": "pc_rois/clinical2026_0424/33_299/20260423_121635_roi_003_circle.png",
+          "filename": "20260423_121635_roi_003_circle.png",
+          "width": 299,
+          "height": 299,
+          "sha256": "36c122c2c82d002a16cdbe7465fe169b37fa55f5ad35a26aa54f000d8a690547"
+        }
+      ]
+    },
+    {
+      "stem": "20260423_121953",
+      "display_name": "20260423_121953.jpg",
+      "source_rel": "30_248/20260423_121953.jpg",
+      "source_folder": "30_248",
+      "roi_count": 2,
+      "rois": [
+        {
+          "roi_index": 1,
+          "asset": "pc_rois/clinical2026_0424/30_248/20260423_121953_roi_001_circle.png",
+          "filename": "20260423_121953_roi_001_circle.png",
+          "width": 317,
+          "height": 317,
+          "sha256": "990a8130115da62a174958b8760949b566aa3050ddc5629ad446bf951febe863"
+        },
+        {
+          "roi_index": 2,
+          "asset": "pc_rois/clinical2026_0424/30_248/20260423_121953_roi_002_circle.png",
+          "filename": "20260423_121953_roi_002_circle.png",
+          "width": 307,
+          "height": 307,
+          "sha256": "82ed4955e810e38dcae9485ffd902ac8f64456ea5b4fe56a19721f718926acea"
+        }
+      ]
+    },
+    {
+      "stem": "20260423_122310",
+      "display_name": "20260423_122310.jpg",
+      "source_rel": "28_289/20260423_122310.jpg",
+      "source_folder": "28_289",
+      "roi_count": 3,
+      "rois": [
+        {
+          "roi_index": 1,
+          "asset": "pc_rois/clinical2026_0424/28_289/20260423_122310_roi_001_circle.png",
+          "filename": "20260423_122310_roi_001_circle.png",
+          "width": 297,
+          "height": 297,
+          "sha256": "d5021236a5493e12182f8dbe6b7bf643c0951c435653259adbd8604452bb3d53"
+        },
+        {
+          "roi_index": 2,
+          "asset": "pc_rois/clinical2026_0424/28_289/20260423_122310_roi_002_circle.png",
+          "filename": "20260423_122310_roi_002_circle.png",
+          "width": 301,
+          "height": 301,
+          "sha256": "21ba12d65342fb9e900ed94fe6d649990b38f3c685ba18a44291366fd7b4250f"
+        },
+        {
+          "roi_index": 3,
+          "asset": "pc_rois/clinical2026_0424/28_289/20260423_122310_roi_003_circle.png",
+          "filename": "20260423_122310_roi_003_circle.png",
+          "width": 323,
+          "height": 323,
+          "sha256": "af68fb86526bac1b8f76fd94ffa297088749a6ef8dfa8a7d5b636b2851185d56"
+        }
+      ]
+    },
+    {
+      "stem": "20260423_122624",
+      "display_name": "20260423_122624.jpg",
+      "source_rel": "M_304/20260423_122624.jpg",
+      "source_folder": "M_304",
+      "roi_count": 3,
+      "rois": [
+        {
+          "roi_index": 1,
+          "asset": "pc_rois/clinical2026_0424/M_304/20260423_122624_roi_001_circle.png",
+          "filename": "20260423_122624_roi_001_circle.png",
+          "width": 293,
+          "height": 293,
+          "sha256": "3e3d46ced76921ad9dc07d50815b2a259ec772a087e4aa89a628bd85916f2e3c"
+        },
+        {
+          "roi_index": 2,
+          "asset": "pc_rois/clinical2026_0424/M_304/20260423_122624_roi_002_circle.png",
+          "filename": "20260423_122624_roi_002_circle.png",
+          "width": 279,
+          "height": 279,
+          "sha256": "e45c5410709170b4173d8634d32a14f48b41e95213ddd13e69fb406bb77e64fe"
+        },
+        {
+          "roi_index": 3,
+          "asset": "pc_rois/clinical2026_0424/M_304/20260423_122624_roi_003_circle.png",
+          "filename": "20260423_122624_roi_003_circle.png",
+          "width": 301,
+          "height": 301,
+          "sha256": "85cb49f9cfa5ff7838b6009c234de3329770a0080e5b7cb6f750682c77341190"
+        }
+      ]
+    },
+    {
+      "stem": "20260423_122923",
+      "display_name": "20260423_122923.jpg",
+      "source_rel": "51_344/20260423_122923.jpg",
+      "source_folder": "51_344",
+      "roi_count": 2,
+      "rois": [
+        {
+          "roi_index": 1,
+          "asset": "pc_rois/clinical2026_0424/51_344/20260423_122923_roi_001_circle.png",
+          "filename": "20260423_122923_roi_001_circle.png",
+          "width": 293,
+          "height": 293,
+          "sha256": "76783e4b621c81a4f00ae624ae69c51e9e708893a9b2e3ff2f31056be508c9d9"
+        },
+        {
+          "roi_index": 2,
+          "asset": "pc_rois/clinical2026_0424/51_344/20260423_122923_roi_002_circle.png",
+          "filename": "20260423_122923_roi_002_circle.png",
+          "width": 317,
+          "height": 317,
+          "sha256": "bf38c705f9d0356118575b20008b00412c93b26fd677fc6cc5ffdef7137b359c"
+        }
+      ]
+    },
+    {
+      "stem": "20260423_123151",
+      "display_name": "20260423_123151.jpg",
+      "source_rel": "C_407/20260423_123151.jpg",
+      "source_folder": "C_407",
+      "roi_count": 3,
+      "rois": [
+        {
+          "roi_index": 1,
+          "asset": "pc_rois/clinical2026_0424/C_407/20260423_123151_roi_001_circle.png",
+          "filename": "20260423_123151_roi_001_circle.png",
+          "width": 293,
+          "height": 293,
+          "sha256": "1bd5eecdaf186d54d1b92afee17754411774cbed29548847d73a9062a31b02c3"
+        },
+        {
+          "roi_index": 2,
+          "asset": "pc_rois/clinical2026_0424/C_407/20260423_123151_roi_002_circle.png",
+          "filename": "20260423_123151_roi_002_circle.png",
+          "width": 293,
+          "height": 293,
+          "sha256": "095be80a006f8058e57739d9a7c90b08cb51c45e5eb73cc93e3c9a816dfea00a"
+        },
+        {
+          "roi_index": 3,
+          "asset": "pc_rois/clinical2026_0424/C_407/20260423_123151_roi_003_circle.png",
+          "filename": "20260423_123151_roi_003_circle.png",
+          "width": 327,
+          "height": 327,
+          "sha256": "af83749f3fdb66edc97a8d3c3654d8099f8b1bb1e089d48c587c9c529a6b8366"
+        }
+      ]
+    },
+    {
+      "stem": "20260423_123440",
+      "display_name": "20260423_123440.jpg",
+      "source_rel": "53_326/20260423_123440.jpg",
+      "source_folder": "53_326",
+      "roi_count": 3,
+      "rois": [
+        {
+          "roi_index": 1,
+          "asset": "pc_rois/clinical2026_0424/53_326/20260423_123440_roi_001_circle.png",
+          "filename": "20260423_123440_roi_001_circle.png",
+          "width": 249,
+          "height": 249,
+          "sha256": "c923e62c9eedb549323d5028f166042a304034c5d444074984b7faec63c07c84"
+        },
+        {
+          "roi_index": 2,
+          "asset": "pc_rois/clinical2026_0424/53_326/20260423_123440_roi_002_circle.png",
+          "filename": "20260423_123440_roi_002_circle.png",
+          "width": 275,
+          "height": 275,
+          "sha256": "33aebdafcf7abc723e28f23cb81704e1875662e7f29593b44234299696622aaa"
+        },
+        {
+          "roi_index": 3,
+          "asset": "pc_rois/clinical2026_0424/53_326/20260423_123440_roi_003_circle.png",
+          "filename": "20260423_123440_roi_003_circle.png",
+          "width": 299,
+          "height": 299,
+          "sha256": "f3948fb537237cf39b47b25ab35b7381f0f84af4a6063f25c17d8708f89b443a"
+        }
+      ]
+    },
+    {
+      "stem": "20260423_123655",
+      "display_name": "20260423_123655.jpg",
+      "source_rel": "31_427/20260423_123655.jpg",
+      "source_folder": "31_427",
+      "roi_count": 3,
+      "rois": [
+        {
+          "roi_index": 1,
+          "asset": "pc_rois/clinical2026_0424/31_427/20260423_123655_roi_001_circle.png",
+          "filename": "20260423_123655_roi_001_circle.png",
+          "width": 317,
+          "height": 317,
+          "sha256": "236d183d7acc50a0c4b0eff902430e92a29aa964afc75e7070bc737d8cfe4abb"
+        },
+        {
+          "roi_index": 2,
+          "asset": "pc_rois/clinical2026_0424/31_427/20260423_123655_roi_002_circle.png",
+          "filename": "20260423_123655_roi_002_circle.png",
+          "width": 271,
+          "height": 271,
+          "sha256": "3aad2e45a599b42fd27cb78cc5dab41f284dd13ef84ecaf3dc38692375f5165c"
+        },
+        {
+          "roi_index": 3,
+          "asset": "pc_rois/clinical2026_0424/31_427/20260423_123655_roi_003_circle.png",
+          "filename": "20260423_123655_roi_003_circle.png",
+          "width": 283,
+          "height": 283,
+          "sha256": "c66807c6f7e908be5c8146f36397d07c5a99533f80a2230f846168d25149dad4"
+        }
+      ]
+    },
+    {
+      "stem": "20260423_123945",
+      "display_name": "20260423_123945.jpg",
+      "source_rel": "39_181/20260423_123945.jpg",
+      "source_folder": "39_181",
+      "roi_count": 3,
+      "rois": [
+        {
+          "roi_index": 1,
+          "asset": "pc_rois/clinical2026_0424/39_181/20260423_123945_roi_001_circle.png",
+          "filename": "20260423_123945_roi_001_circle.png",
+          "width": 289,
+          "height": 289,
+          "sha256": "fab4d01a1f246ed08db09d3eb701bb1aa901233a912e7dfd37cc26b1c2cbf9fb"
+        },
+        {
+          "roi_index": 2,
+          "asset": "pc_rois/clinical2026_0424/39_181/20260423_123945_roi_002_circle.png",
+          "filename": "20260423_123945_roi_002_circle.png",
+          "width": 301,
+          "height": 301,
+          "sha256": "50fee998c428c52752587527ca37903162ac3d281db177bd36b281f6b9b66d71"
+        },
+        {
+          "roi_index": 3,
+          "asset": "pc_rois/clinical2026_0424/39_181/20260423_123945_roi_003_circle.png",
+          "filename": "20260423_123945_roi_003_circle.png",
+          "width": 303,
+          "height": 303,
+          "sha256": "3246a53f75f7648d91489cac887a141ec7d8266b463ade76111804b4f2c0b33a"
+        }
+      ]
+    },
+    {
+      "stem": "20260423_124213",
+      "display_name": "20260423_124213.jpg",
+      "source_rel": "37_420/20260423_124213.jpg",
+      "source_folder": "37_420",
+      "roi_count": 3,
+      "rois": [
+        {
+          "roi_index": 1,
+          "asset": "pc_rois/clinical2026_0424/37_420/20260423_124213_roi_001_circle.png",
+          "filename": "20260423_124213_roi_001_circle.png",
+          "width": 291,
+          "height": 291,
+          "sha256": "3a1addd5202c11102ef6e29bea07ecbf4d1cb13aa4ff978b236d9ec035e13218"
+        },
+        {
+          "roi_index": 2,
+          "asset": "pc_rois/clinical2026_0424/37_420/20260423_124213_roi_002_circle.png",
+          "filename": "20260423_124213_roi_002_circle.png",
+          "width": 309,
+          "height": 309,
+          "sha256": "ef40e61554ceb79f10aa7837eae85abf8d0dc7f46b85e8d08118f2a002f2b110"
+        },
+        {
+          "roi_index": 3,
+          "asset": "pc_rois/clinical2026_0424/37_420/20260423_124213_roi_003_circle.png",
+          "filename": "20260423_124213_roi_003_circle.png",
+          "width": 309,
+          "height": 309,
+          "sha256": "7d0ff59d31b45a9a4ec32ca215a48f00a811123e375f21c36aa7e9f68138c9c6"
+        }
+      ]
+    },
+    {
+      "stem": "20260423_124419",
+      "display_name": "20260423_124419.jpg",
+      "source_rel": "35_372/20260423_124419.jpg",
+      "source_folder": "35_372",
+      "roi_count": 2,
+      "rois": [
+        {
+          "roi_index": 1,
+          "asset": "pc_rois/clinical2026_0424/35_372/20260423_124419_roi_001_circle.png",
+          "filename": "20260423_124419_roi_001_circle.png",
+          "width": 289,
+          "height": 289,
+          "sha256": "23fa53757473b902b023fa5bd7c950dbe789ee62ead08939620d00e683c8b9a0"
+        },
+        {
+          "roi_index": 2,
+          "asset": "pc_rois/clinical2026_0424/35_372/20260423_124419_roi_002_circle.png",
+          "filename": "20260423_124419_roi_002_circle.png",
+          "width": 313,
+          "height": 313,
+          "sha256": "02819a8828f8809af9c412915a3f6db30a41ab6b9319619abbd31a54642685aa"
+        }
+      ]
+    },
+    {
+      "stem": "20260423_124607",
+      "display_name": "20260423_124607.jpg",
+      "source_rel": "34_462/20260423_124607.jpg",
+      "source_folder": "34_462",
+      "roi_count": 2,
+      "rois": [
+        {
+          "roi_index": 1,
+          "asset": "pc_rois/clinical2026_0424/34_462/20260423_124607_roi_001_circle.png",
+          "filename": "20260423_124607_roi_001_circle.png",
+          "width": 331,
+          "height": 331,
+          "sha256": "a0b044c346fc8872135da07c6710f36cf5cd9271323038b2e452f63ceb584f22"
+        },
+        {
+          "roi_index": 2,
+          "asset": "pc_rois/clinical2026_0424/34_462/20260423_124607_roi_002_circle.png",
+          "filename": "20260423_124607_roi_002_circle.png",
+          "width": 307,
+          "height": 307,
+          "sha256": "07b8c03bc526dea86ee0480f1f55862935830b241d624d2990e645c644e36060"
+        }
+      ]
+    },
+    {
+      "stem": "20260423_124835",
+      "display_name": "20260423_124835.jpg",
+      "source_rel": "54_404/20260423_124835.jpg",
+      "source_folder": "54_404",
+      "roi_count": 2,
+      "rois": [
+        {
+          "roi_index": 1,
+          "asset": "pc_rois/clinical2026_0424/54_404/20260423_124835_roi_001_circle.png",
+          "filename": "20260423_124835_roi_001_circle.png",
+          "width": 355,
+          "height": 355,
+          "sha256": "91da160355a3d691abf22d55acd20b47a3c83a83cf41fee887a67bdb062a7e22"
+        },
+        {
+          "roi_index": 2,
+          "asset": "pc_rois/clinical2026_0424/54_404/20260423_124835_roi_002_circle.png",
+          "filename": "20260423_124835_roi_002_circle.png",
+          "width": 323,
+          "height": 323,
+          "sha256": "89d0bbc6200583eb99f0363beb5edad23e2dc16a5e3b820cc46f2fb601e83706"
+        }
+      ]
+    },
+    {
+      "stem": "20260423_125046",
+      "display_name": "20260423_125046.jpg",
+      "source_rel": "32_237/20260423_125046.jpg",
+      "source_folder": "32_237",
+      "roi_count": 2,
+      "rois": [
+        {
+          "roi_index": 1,
+          "asset": "pc_rois/clinical2026_0424/32_237/20260423_125046_roi_001_circle.png",
+          "filename": "20260423_125046_roi_001_circle.png",
+          "width": 295,
+          "height": 295,
+          "sha256": "1abdffb6804bcc17b41df5c5e1121eac225caf49aaf501558773b7d13d1bfdbd"
+        },
+        {
+          "roi_index": 2,
+          "asset": "pc_rois/clinical2026_0424/32_237/20260423_125046_roi_002_circle.png",
+          "filename": "20260423_125046_roi_002_circle.png",
+          "width": 303,
+          "height": 303,
+          "sha256": "037fddf9b22f852ed31b2f8fb22694c6ecd4526177e52e664759b4eb30f6cf53"
+        }
+      ]
+    },
+    {
+      "stem": "20260423_125324",
+      "display_name": "20260423_125324.jpg",
+      "source_rel": "27_325/20260423_125324.jpg",
+      "source_folder": "27_325",
+      "roi_count": 3,
+      "rois": [
+        {
+          "roi_index": 1,
+          "asset": "pc_rois/clinical2026_0424/27_325/20260423_125324_roi_001_circle.png",
+          "filename": "20260423_125324_roi_001_circle.png",
+          "width": 339,
+          "height": 339,
+          "sha256": "77f4325a1e70d98d7833dd82a5698b40f03f688e6d81561430347e737d9f8863"
+        },
+        {
+          "roi_index": 2,
+          "asset": "pc_rois/clinical2026_0424/27_325/20260423_125324_roi_002_circle.png",
+          "filename": "20260423_125324_roi_002_circle.png",
+          "width": 335,
+          "height": 335,
+          "sha256": "63c896b72ae9f714f04063aea8df3a6ebd81870e0cc9baf7ce162d09523426f3"
+        },
+        {
+          "roi_index": 3,
+          "asset": "pc_rois/clinical2026_0424/27_325/20260423_125324_roi_003_circle.png",
+          "filename": "20260423_125324_roi_003_circle.png",
+          "width": 321,
+          "height": 321,
+          "sha256": "e92c500d6c381306c76724774a16e8c2974c74103a8a822d3c381bda7c7f68d1"
+        }
+      ]
+    },
+    {
+      "stem": "20260423_125536",
+      "display_name": "20260423_125536.jpg",
+      "source_rel": "26_411/20260423_125536.jpg",
+      "source_folder": "26_411",
+      "roi_count": 3,
+      "rois": [
+        {
+          "roi_index": 1,
+          "asset": "pc_rois/clinical2026_0424/26_411/20260423_125536_roi_001_circle.png",
+          "filename": "20260423_125536_roi_001_circle.png",
+          "width": 301,
+          "height": 301,
+          "sha256": "d3a3709652478ec376c0a269377c70c92f7fb6427ecfc599309e3a52f900a6ae"
+        },
+        {
+          "roi_index": 2,
+          "asset": "pc_rois/clinical2026_0424/26_411/20260423_125536_roi_002_circle.png",
+          "filename": "20260423_125536_roi_002_circle.png",
+          "width": 295,
+          "height": 295,
+          "sha256": "5ae5f1daf1ed9468e2f000359ad3535f49118bc1b1e835310d8b7cea8260cdff"
+        },
+        {
+          "roi_index": 3,
+          "asset": "pc_rois/clinical2026_0424/26_411/20260423_125536_roi_003_circle.png",
+          "filename": "20260423_125536_roi_003_circle.png",
+          "width": 305,
+          "height": 305,
+          "sha256": "64b5e2fce4117d92b06e47d10c6418fc752f6fc01a22275b62b663003ffc8306"
+        }
+      ]
+    },
+    {
+      "stem": "20260423_125833",
+      "display_name": "20260423_125833.jpg",
+      "source_rel": "V_337/20260423_125833.jpg",
+      "source_folder": "V_337",
+      "roi_count": 3,
+      "rois": [
+        {
+          "roi_index": 1,
+          "asset": "pc_rois/clinical2026_0424/V_337/20260423_125833_roi_001_circle.png",
+          "filename": "20260423_125833_roi_001_circle.png",
+          "width": 281,
+          "height": 281,
+          "sha256": "de0603e7090896765bf2e4d5c8bb14f41f088040ab5115507536968cc78e0ade"
+        },
+        {
+          "roi_index": 2,
+          "asset": "pc_rois/clinical2026_0424/V_337/20260423_125833_roi_002_circle.png",
+          "filename": "20260423_125833_roi_002_circle.png",
+          "width": 301,
+          "height": 301,
+          "sha256": "62c92637ff238efb954f598819b56ef61f65a62bbae594836517fa810a109e8c"
+        },
+        {
+          "roi_index": 3,
+          "asset": "pc_rois/clinical2026_0424/V_337/20260423_125833_roi_003_circle.png",
+          "filename": "20260423_125833_roi_003_circle.png",
+          "width": 319,
+          "height": 319,
+          "sha256": "cfba8c831137ba12fa59ea0797f3cde4701801b3a1c0eeac2f7785a92e2cdae9"
+        }
+      ]
+    },
+    {
+      "stem": "20260423_130125",
+      "display_name": "20260423_130125.jpg",
+      "source_rel": "40_313/20260423_130125.jpg",
+      "source_folder": "40_313",
+      "roi_count": 2,
+      "rois": [
+        {
+          "roi_index": 1,
+          "asset": "pc_rois/clinical2026_0424/40_313/20260423_130125_roi_001_circle.png",
+          "filename": "20260423_130125_roi_001_circle.png",
+          "width": 305,
+          "height": 305,
+          "sha256": "634921dc407b0b30374f7a48e08384a76c403f09c3dd7e99e13f0ea130cc7a5b"
+        },
+        {
+          "roi_index": 2,
+          "asset": "pc_rois/clinical2026_0424/40_313/20260423_130125_roi_002_circle.png",
+          "filename": "20260423_130125_roi_002_circle.png",
+          "width": 307,
+          "height": 307,
+          "sha256": "16b49019e38c2c3465998dc7c88d9445475221fd6e79429c917d1ae32b8121d5"
+        }
+      ]
+    },
+    {
+      "stem": "20260423_130302",
+      "display_name": "20260423_130302.jpg",
+      "source_rel": "50_277/20260423_130302.jpg",
+      "source_folder": "50_277",
+      "roi_count": 3,
+      "rois": [
+        {
+          "roi_index": 1,
+          "asset": "pc_rois/clinical2026_0424/50_277/20260423_130302_roi_001_circle.png",
+          "filename": "20260423_130302_roi_001_circle.png",
+          "width": 283,
+          "height": 283,
+          "sha256": "738d30fc571c7a696680463f55320d05e5da678bdb9bc9c172f5682f17b81d94"
+        },
+        {
+          "roi_index": 2,
+          "asset": "pc_rois/clinical2026_0424/50_277/20260423_130302_roi_002_circle.png",
+          "filename": "20260423_130302_roi_002_circle.png",
+          "width": 291,
+          "height": 291,
+          "sha256": "069721d777f25041ed4959dc967a9fc43fb85d0feac7bede7d9411594bd1b3a2"
+        },
+        {
+          "roi_index": 3,
+          "asset": "pc_rois/clinical2026_0424/50_277/20260423_130302_roi_003_circle.png",
+          "filename": "20260423_130302_roi_003_circle.png",
+          "width": 299,
+          "height": 299,
+          "sha256": "9f9986c4b598fb792ca64af3e4c09706a88f68fb117b6d1934c8c3574eef906f"
+        }
+      ]
+    },
+    {
+      "stem": "20260423_130450",
+      "display_name": "20260423_130450.jpg",
+      "source_rel": "52_340/20260423_130450.jpg",
+      "source_folder": "52_340",
+      "roi_count": 2,
+      "rois": [
+        {
+          "roi_index": 1,
+          "asset": "pc_rois/clinical2026_0424/52_340/20260423_130450_roi_001_circle.png",
+          "filename": "20260423_130450_roi_001_circle.png",
+          "width": 277,
+          "height": 277,
+          "sha256": "1e9f22b838ca687ec3611cf778a49a231c5216d42cf98c1c3185fc164078765a"
+        },
+        {
+          "roi_index": 2,
+          "asset": "pc_rois/clinical2026_0424/52_340/20260423_130450_roi_002_circle.png",
+          "filename": "20260423_130450_roi_002_circle.png",
+          "width": 293,
+          "height": 293,
+          "sha256": "84982c05090894dfc6caf3be949be4bb2781744f7a48889bb78add6fe4d187ae"
+        }
+      ]
+    },
+    {
+      "stem": "20260423_130723",
+      "display_name": "20260423_130723.jpg",
+      "source_rel": "29_334/20260423_130723.jpg",
+      "source_folder": "29_334",
+      "roi_count": 1,
+      "rois": [
+        {
+          "roi_index": 1,
+          "asset": "pc_rois/clinical2026_0424/29_334/20260423_130723_roi_001_circle.png",
+          "filename": "20260423_130723_roi_001_circle.png",
+          "width": 337,
+          "height": 337,
+          "sha256": "f4f758517c103f6a74a9428d5f94e0caeb644bc2521de7f42076f7ab57bfc055"
+        }
+      ]
+    },
+    {
+      "stem": "20260423_131009",
+      "display_name": "20260423_131009.jpg",
+      "source_rel": "GZJ_377/20260423_131009.jpg",
+      "source_folder": "GZJ_377",
+      "roi_count": 2,
+      "rois": [
+        {
+          "roi_index": 1,
+          "asset": "pc_rois/clinical2026_0424/GZJ_377/20260423_131009_roi_001_circle.png",
+          "filename": "20260423_131009_roi_001_circle.png",
+          "width": 305,
+          "height": 305,
+          "sha256": "c2658bc859de399787315041913c25a0c688ce292bd1574d6dd75697457b2fff"
+        },
+        {
+          "roi_index": 2,
+          "asset": "pc_rois/clinical2026_0424/GZJ_377/20260423_131009_roi_002_circle.png",
+          "filename": "20260423_131009_roi_002_circle.png",
+          "width": 315,
+          "height": 315,
+          "sha256": "722620f4a8378bf4e2c85d1a53320cbf6809a5b0b72364ec356f039699e67fca"
+        }
+      ]
+    },
+    {
+      "stem": "20260423_131200",
+      "display_name": "20260423_131200.jpg",
+      "source_rel": "BZT_377/20260423_131200.jpg",
+      "source_folder": "BZT_377",
+      "roi_count": 2,
+      "rois": [
+        {
+          "roi_index": 1,
+          "asset": "pc_rois/clinical2026_0424/BZT_377/20260423_131200_roi_001_circle.png",
+          "filename": "20260423_131200_roi_001_circle.png",
+          "width": 301,
+          "height": 301,
+          "sha256": "ee24ca201443d85e03dc92d4e9ca8e0df8266db6d9031a2709912cac58268769"
+        },
+        {
+          "roi_index": 2,
+          "asset": "pc_rois/clinical2026_0424/BZT_377/20260423_131200_roi_002_circle.png",
+          "filename": "20260423_131200_roi_002_circle.png",
+          "width": 295,
+          "height": 295,
+          "sha256": "283c5e9c8ff04933e33ac5aa209064403cb02361026dcc416b5a361cae8531d5"
+        }
+      ]
+    }
+  ]
+}

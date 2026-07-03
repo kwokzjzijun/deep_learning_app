@@ -1,0 +1,29 @@
+*.iml
+
+# Local machine configuration
+local.properties
+/local.properties
+
+# Gradle and Android build outputs
+.gradle/
+build/
+**/build/
+/captures/
+.externalNativeBuild/
+.cxx/
+
+# IDE/editor state
+.idea/
+.vscode/
+
+# OS and temporary files
+.DS_Store
+._*
+*.log
+
+# Python caches used by helper scripts and Chaquopy code
+__pycache__/
+*.py[cod]
+
+# Local editor history snapshots
+.history/
